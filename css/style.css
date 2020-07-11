@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.logo{
+	width: 200px;
+}
+.logo1{
+	width: 50px;
+}
+.card-deck{
+	margin: 10px;
+}
+.footer{
+	padding: 50px;
+	padding-bottom: 10px;
+}
+.footer-social-links{
+	font-size: 35px !important;
+}
+@media(max-width: 768px){
+	.footer{
+		padding-left: 20px;
+	}
+	.tag{
+		font-size: 35px;
+		font-weight: 300; 
+	}
+}

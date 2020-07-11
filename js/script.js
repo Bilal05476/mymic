@@ -1,0 +1,11 @@
+$(document).ready(function(){
+    $('#details').click(function(){
+        $('#detailsModal').modal('show')
+    });
+    $('#details2').click(function(){
+        $('#detailsModal').modal('show')
+    });
+    $('#details3').click(function(){
+        $('#detailsModal').modal('show')
+    });
+});
